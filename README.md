@@ -46,7 +46,6 @@ pip install yfinance pandas matplotlib seaborn
 ### 1. Data Collection
 
 * Fetch stock data using yfinance
-* Example: Apple (AAPL), Microsoft (MSFT), Tesla (TSLA)
 
 ### 2. Data Cleaning
 
